@@ -50,3 +50,6 @@ directory _personnames_:
 * Norwegian_male.txt
 
 Each of these files contain tens of names.
+
+In addition to real names I took the list of Elvish names from http://www.candlekeep.com/library/articles/elven_names.htm
+Unfortunately I could not contact the original author of the list (the e-mail address reported on the page is incomplete).
